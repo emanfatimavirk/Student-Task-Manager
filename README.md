@@ -1,5 +1,4 @@
 # Student Task Management Platform
-# Student Task Manager
 
 A web application to manage student tasks and assignments efficiently.
 
