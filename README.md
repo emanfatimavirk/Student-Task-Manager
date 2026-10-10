@@ -1,11 +1,10 @@
-feature/task-search
-# Student Task Management Application
-## Student Task Management Platform
-main
+# Student Task Manager
 
 A web application to manage student tasks and assignments efficiently.
 
-### Features
+## Features
+
 - Add and manage daily student tasks
+- Search tasks by keyword
 - Responsive layout and modern styling
 - Simple and easy-to-use user interface
