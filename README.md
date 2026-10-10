@@ -1,12 +1,10 @@
- HEAD
-# Student Task Management Application
-
-# Student Task Management Platform
->>>>>>> da00ca2355fc023af1702cfe6733e9db068b9230
+# Student Task Manager
 
 A web application to manage student tasks and assignments efficiently.
 
 ## Features
+
 - Add and manage daily student tasks
+- Search tasks by keyword
 - Responsive layout and modern styling
 - Simple and easy-to-use user interface
